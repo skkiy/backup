@@ -1,0 +1,4 @@
+cmds/backup/backup
+cmds/backup/backupdata
+cmds/backupd/backupd
+cmds/backupd/archive
